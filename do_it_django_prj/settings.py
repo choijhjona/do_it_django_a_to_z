@@ -1,3 +1,5 @@
+#################
+
 """
 Django settings for do_it_django_prj project.
 
